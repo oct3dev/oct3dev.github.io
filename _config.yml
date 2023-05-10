@@ -9,7 +9,7 @@ name: Sangho SONG
 description: Researcher and Surveyor  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/sangggho-logo.jpg
+avatar: ./images/sangggho-logo.jpg
 
 #
 # Flags below are optional
